@@ -1,0 +1,4 @@
+2021-06-23 17:06:304 INFO  DesktopPage :40 - Clicking on computer lin : [[ChromeDriver: chrome on WINDOWS (fef9ecc710f43e959dff017761077f0d)] -> link text: Computers]
+2021-06-23 17:06:52 INFO  DesktopPage :31 - Click on Desktop : Proxy element for: DefaultElementLocator 'By.xpath: //a[text()=' Desktops ']'
+2021-06-23 17:06:209 INFO  DesktopPage :37 - Select On Alphabeticaly Reverse : [[ChromeDriver: chrome on WINDOWS (fef9ecc710f43e959dff017761077f0d)] -> id: products-orderby]
+2021-06-23 17:06:264 INFO  DesktopPage :42 - Verify product Desceding Order : [[[ChromeDriver: chrome on WINDOWS (fef9ecc710f43e959dff017761077f0d)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (fef9ecc710f43e959dff017761077f0d)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (fef9ecc710f43e959dff017761077f0d)] -> xpath: //h2[@class='product-title']]]
